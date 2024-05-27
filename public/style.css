@@ -1,0 +1,14 @@
+h1{
+    color: maroon;
+}
+.post{
+    background-color: burlywood;
+}
+
+.user{
+    font-style: italic;
+}
+
+.content{
+    font-weight: 500;
+}
